@@ -111,12 +111,12 @@ filename: RFtestconf.png
 ### Acuracy
 
 ANN acccuracy: 
-* training: 0.982
-* test: 0.982
+* training: 0.9810333333333333
+* test: 0.9767
 
 RF accuracy:
-* training: 0.17446666666666666
-* test: 0.173
+* training: 1.0
+* test: 0.9057
 
 !['Accuracy'](acc.png)
 
@@ -125,11 +125,11 @@ filename: acc.png
 ### Loss
 
 ANN loss: 
-* training: 0.0013752194
-* test: 0.0013578276
+* training: 0.001437908
+* test: 0.0016805703
 RF loss:
-* training: 0.044619124
-* test: 0.044628706
+* training: 0.0
+* test: 0.004905429
 
 !['Loss'](loss.png)
 
